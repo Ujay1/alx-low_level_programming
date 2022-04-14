@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Printing alphabet in lowercase 
+ * Description: Printing alphabet in lowercase
  * Return: Always 0 as success
  */
 void print_alphabet(void)
